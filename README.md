@@ -1,6 +1,10 @@
 # TSLint EverReal Config
 
-#### Example configs
+```
+yarn add @everreal/tslint-config
+```
+
+#### Example `tslint.json`
 
 ```json
 {
