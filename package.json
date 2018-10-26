@@ -1,0 +1,23 @@
+{
+  "name": "@everreal/tslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "everreal",
+    "tslint",
+    "typescript"
+  ],
+  "scripts": {
+    "publish-package": "npm publish --access=public"
+  },
+  "peerDependencies": {
+    "tslint": "^5.8.0"
+  },
+  "dependencies": {
+    "tslint-config-airbnb": "^5.11.0",
+    "tslint-react": "^3.6.0"
+  }
+}
